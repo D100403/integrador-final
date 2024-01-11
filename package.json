@@ -2,7 +2,7 @@
   "name": "integrador-final-react",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://d100403.github.io/bootcamp-java-integrador-final/",
+  "homepage":"http://D100403.github.io/bootcamp-java-integrador-final/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
