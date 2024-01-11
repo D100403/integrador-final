@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  padding: 0 400px;
+  background-color: #E5E1DA;
+}
+
+.carga {
+  font-size: 20px;
+}

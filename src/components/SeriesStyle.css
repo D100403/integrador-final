@@ -1,0 +1,29 @@
+.series img {
+    width: 100%;
+    height: 26rem;
+    border-radius: 10px;
+    transition: .3s ease-in-out;
+  }
+  
+  .serie img:hover {
+    box-shadow: 0px 0px 15px 3px rgba(0, 0, 0, 0.4);
+  }
+  
+  .series {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 50px;
+  }
+  
+  .serie {
+    width: 18.75rem;
+    transition: .3s ease-in-out;
+  }
+  
+  .serie:hover{
+      transform: scale(1.04);
+    cursor: pointer;
+  }

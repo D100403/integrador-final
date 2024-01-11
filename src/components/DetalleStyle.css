@@ -1,0 +1,21 @@
+.imgSola img {
+    border-radius: 10px;
+}
+.imgSola {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    height: 40rem;
+
+}
+
+.textoSolo {
+    display: flex;
+    justify-content: center;
+}
+
+.volver {
+    text-align: center;
+    font-size: 2rem;
+}
